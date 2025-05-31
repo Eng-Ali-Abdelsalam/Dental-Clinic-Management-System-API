@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalClinic", "DentalClinic\DentalClinic.csproj", "{AFF6C489-3E0A-497E-A279-CBF5EE2A91D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalClinic.Core", "DentalClinic.Core\DentalClinic.Core.csproj", "{2D9DE854-9A6B-4673-809B-1CC4897EA8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalClinic.Infrastructure", "DentalClinic.Infrastructure\DentalClinic.Infrastructure.csproj", "{BB4A4B9F-EF30-454E-BE78-05D7BD6C1E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalClinic.Application", "DentalClinic.Application\DentalClinic.Application.csproj", "{27236280-244A-4399-BC4B-F4399947FC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalClinic.Tests", "DentalClinic.Tests\DentalClinic.Tests.csproj", "{B4054A9E-B188-49D4-98EB-B1D134DDAD67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF6C489-3E0A-497E-A279-CBF5EE2A91D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF6C489-3E0A-497E-A279-CBF5EE2A91D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF6C489-3E0A-497E-A279-CBF5EE2A91D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF6C489-3E0A-497E-A279-CBF5EE2A91D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9DE854-9A6B-4673-809B-1CC4897EA8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9DE854-9A6B-4673-809B-1CC4897EA8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9DE854-9A6B-4673-809B-1CC4897EA8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9DE854-9A6B-4673-809B-1CC4897EA8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4A4B9F-EF30-454E-BE78-05D7BD6C1E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4A4B9F-EF30-454E-BE78-05D7BD6C1E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4A4B9F-EF30-454E-BE78-05D7BD6C1E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4A4B9F-EF30-454E-BE78-05D7BD6C1E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27236280-244A-4399-BC4B-F4399947FC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27236280-244A-4399-BC4B-F4399947FC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27236280-244A-4399-BC4B-F4399947FC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27236280-244A-4399-BC4B-F4399947FC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4054A9E-B188-49D4-98EB-B1D134DDAD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4054A9E-B188-49D4-98EB-B1D134DDAD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4054A9E-B188-49D4-98EB-B1D134DDAD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4054A9E-B188-49D4-98EB-B1D134DDAD67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CF71F9-FD55-4897-BD3D-631A5D3F8368}
+	EndGlobalSection
+EndGlobal

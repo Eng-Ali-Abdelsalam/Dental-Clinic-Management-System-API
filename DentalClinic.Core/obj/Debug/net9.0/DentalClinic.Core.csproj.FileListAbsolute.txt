@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\bin\Debug\net9.0\DentalClinic.Core.deps.json
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\bin\Debug\net9.0\DentalClinic.Core.dll
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\bin\Debug\net9.0\DentalClinic.Core.pdb
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\DentalClinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\DentalClinic.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\DentalClinic.Core.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\DentalClinic.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\DentalClinic.Core.dll
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\refint\DentalClinic.Core.dll
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\DentalClinic.Core.pdb
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Core\obj\Debug\net9.0\ref\DentalClinic.Core.dll

@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\bin\Debug\net9.0\DentalClinic.Application.deps.json
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\bin\Debug\net9.0\DentalClinic.Application.dll
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\bin\Debug\net9.0\DentalClinic.Application.pdb
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.dll
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\refint\DentalClinic.Application.dll
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\DentalClinic.Application.pdb
+C:\Users\lenovo\source\repos\DentalClinic\DentalClinic.Application\obj\Debug\net9.0\ref\DentalClinic.Application.dll
